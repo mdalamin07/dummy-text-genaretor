@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.dummy_text{
+    text-align: center;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.dummy_head{
+    margin-bottom: 15px;
+}
+
+.dummy_body{
+    overflow: hidden;
+    display: inline-block;
+}
+.dummy_body input{
+    padding: 5px;
+    margin-left: 5px;
+}
+.dummy_body button{
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.genaret_text{
+    margin: 20px 250px;
+
+}
